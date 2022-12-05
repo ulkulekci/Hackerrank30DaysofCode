@@ -18,7 +18,7 @@ public class DataTypes {
         String s1 = scan.nextLine();
         System.out.println(i+i1);
         System.out.println(d+d1);
-        System.out.println(s+s1.toString());
+        System.out.println(s+s1);
         /* Declare second integer, double, and String variables. */
 
         /* Read and save an integer, double, and String to your variables.*/
